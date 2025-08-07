@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Japanese",
+			"path": "../../../Downloads/07_SourceHanSansJ/OTF/Japanese"
+		},
+		{
+			"name": "snowflake_streamlit",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
